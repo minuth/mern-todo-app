@@ -1,4 +1,8 @@
 # **MERN TO-DO App**
+Features
+- User Authentication: Sign up and log in securely.
+- Task Management: Add, edit, and delete tasks.
+- Task Completion: Mark tasks as complete or incomplete.
 
 ## Run Backend
 
